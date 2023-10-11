@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: aliceblue;
+}
+.Counter__Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 6px;
+    margin-top: 1rem;
+}
+
